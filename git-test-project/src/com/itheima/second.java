@@ -6,16 +6,10 @@ public class second {
         System.out.println("second");
         System.out.println("second");
         System.out.println("second");
-        System.out.println("second");
-        System.out.println("second");
-        System.out.println("second");
-        System.out.println("second");
-        System.out.println("second");
-        System.out.println("second");
-        System.out.println("second2");
-        System.out.println("second2");
-        System.out.println("second2");
-        System.out.println("second2");
+        System.out.println("..");
+        System.out.println("..");
+        System.out.println("..");
+        System.out.println("..");
 
 
 
