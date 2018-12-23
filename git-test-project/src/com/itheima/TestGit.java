@@ -8,4 +8,8 @@ public class TestGit {
         System.out.println("git-test");
         System.out.println("git-test");
     }
+
+    public void test(){
+        int i = 0;
+    }
 }
